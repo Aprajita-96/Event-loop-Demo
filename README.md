@@ -1,6 +1,10 @@
 # Event-loop-Demo
 
 
+- event loop is a scheduler
+- resource intensive
+-cons: logic is complex and can become unmaintable , ( go introduces go routines , these are executed in a thread like infra structure .)
+
 How the dom uses a event queue to render the DOM.
 
 
